@@ -6,7 +6,6 @@
   "repository": "https://github.com/mylife-home/mylife-home-core-plugins-hw-mpd",
   "author": "Vincent Trumpff",
   "dependencies": {
-    "log4js": "*",
     "mpd": "*"
   },
   "devDependencies": {
