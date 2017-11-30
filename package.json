@@ -1,6 +1,6 @@
 {
   "name": "mylife-home-core-plugins-hw-mpd",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Mylife Home Core Plugin: HW MPD",
   "main": "index.js",
   "repository": "https://github.com/mylife-home/mylife-home-core-plugins-hw-mpd",
